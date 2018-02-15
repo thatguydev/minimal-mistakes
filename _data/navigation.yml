@@ -6,6 +6,8 @@ main:
      url: https://thatguydev.github.io/about/
    - title: "Tech"
      url: /Tech/
+   - title: "Travel"
+     url:/travel/
    - title: "Coffee"
      url: /coffee/
   # - title: "Sitemap"
