@@ -7,8 +7,8 @@ main:
    - title: "Tech"
      url: tech/
    - title: "Travel"
-     url: /travel/
+     url: travel/
    - title: "Coffee"
-     url: /coffee/
+     url: coffee/
   # - title: "Sitemap"
   #   url: /sitemap/
