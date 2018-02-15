@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Devan Sri-Tharan"
-  avatar           : # "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Leave no stone untouhced"
   location         : "Somewhere"
   email            :
