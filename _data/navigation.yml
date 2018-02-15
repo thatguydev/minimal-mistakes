@@ -5,7 +5,7 @@ main:
    - title: "About"
      url: https://thatguydev.github.io/about/
    - title: "Tech"
-     url: /tech/
+     url: tech/
    - title: "Travel"
      url: /travel/
    - title: "Coffee"
