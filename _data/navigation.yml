@@ -5,10 +5,10 @@ main:
    - title: "About"
      url: https://thatguydev.github.io/about/
    - title: "Tech"
-     url: /Tech/
+     url: Tech/
    - title: "Travel"
-     url:/travel/
+     url:travel/
    - title: "Coffee"
-     url: /coffee/
+     url: coffee/
   # - title: "Sitemap"
   #   url: /sitemap/
