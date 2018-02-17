@@ -15,7 +15,7 @@ name                     : "Devan Sri-Tharan"
 description              : "A little bit of everything..."
 url                      : "https://devanisthinking.com/"
 baseurl                  : "/"
-repository               : "thatguydev/thatguydev.github.io"
+repository               : #"thatguydev/thatguydev.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
