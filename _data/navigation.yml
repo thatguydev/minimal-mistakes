@@ -3,12 +3,12 @@ main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About"
-     url: https://thatguydev.github.io/about/
+     url: /about/
    - title: "Tech"
-     url: tech/
+     url: /tech/
    - title: "Travel"
-     url: travel/
+     url: /travel/
    - title: "Coffee"
-     url: coffee/
+     url: /coffee/
   # - title: "Sitemap"
   #   url: /sitemap/
