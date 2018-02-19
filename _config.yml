@@ -61,9 +61,9 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
-facebook:
+#twitter:
+#  username               :
+ facebook:
   username               :
   app_id                 :
   publisher              :
@@ -251,5 +251,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
