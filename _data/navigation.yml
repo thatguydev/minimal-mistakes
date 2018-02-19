@@ -7,7 +7,7 @@ main:
    - title: "Tech"
      url: /tech/
    - title: "Travel"
-     url: /travel/
+     url: /categories/#travel/
    - title: "Coffee"
      url: /coffee/
   # - title: "Sitemap"
