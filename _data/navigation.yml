@@ -4,11 +4,7 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About"
      url: /about/
-   - title: "Tech"
-     url: /tech/
-   - title: "Travel"
-     url: /categories/#travel/
-   - title: "Coffee"
-     url: /coffee/
+   - title: "Posts"
+     url: /
   # - title: "Sitemap"
   #   url: /sitemap/
